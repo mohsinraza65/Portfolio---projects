@@ -4,7 +4,7 @@ Hi, I'm Mohsin Raza!I’m a Data Analyst who’s passionate about uncovering the
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 From wrangling raw data to presenting polished reports, I enjoy every step of the process!
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
-# Table Of Contents
+## Table Of Contents
 - [About](#about)
 ## Skills and Expertise
 
